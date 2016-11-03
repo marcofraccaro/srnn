@@ -2,9 +2,9 @@ Sequential Neural Models with Stochastic Layers
 =======
 This repository contains the implementation of the Stochastic Recurrent Neural Network (SRNN) model described in
 
-*Sequential Neural Models with Stochastic Layers*
-Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, Ole Winther
-*NIPS 2016, arXiv preprint [arXiv:1605.07571](https://arxiv.org/abs/1605.07571)*
+*Sequential Neural Models with Stochastic Layers*  
+Marco Fraccaro, Søren Kaae Sønderby, Ulrich Paquet, Ole Winther  
+*NIPS 2016, arXiv preprint [arXiv:1605.07571](https://arxiv.org/abs/1605.07571)*  
 
 The implementation is built on the [Theano](<https://github.com/Theano/Theano>), [Lasagne](<http://github.com/Lasagne/Lasagne>) and [Parmesan](<https://github.com/casperkaae/parmesan>) libraries.
 
